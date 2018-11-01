@@ -17,7 +17,7 @@ module.exports = {
     ]
   },
   plugins: ['~/plugins/vuetify.js', '~/plugins/testMixin.js'],
-  css: ['~/assets/style/app.styl'],
+  css: ['~/assets/style/app.styl', '~/assets/style/main.styl'],
   /*
   ** Customize the progress bar color
   */
